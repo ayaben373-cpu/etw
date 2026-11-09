@@ -1,0 +1,45 @@
+<?php
+//Evaluation 09/10/2026
+
+echo “<h1> "Evaluation" </h1>”;
+echo "Quels sont les principaux métiers dans une agence web? Donnez une petite explication pour chacuns.";
+echo “<br>”;
+
+echo " Premièrement, il y a le chef de projet web ou digital qui supervise et planifie l'activité de son équipe, il met en place un cahier des charges selo les besoins du client et est l'homme intermédiaire entre le client et son équipe technique. "."<br>".
+"Ensuite, il y a le graphiste qi est l'esprit créatif de l'équipe. Il revient à lui de designer les affiches, posters, logo,... Il peut soit se baser sur la charte graphique d'un client soit tout commencer de A à Z. ";
+echo “<br>”;
+
+
+echo "Un autre métier important dans une agence est celui du développeur web, celui qui va donc coder les idées travaillées par ses collègues et lui meme. Il devra pour cela rester constamment à jour des nouvelles évolutions et maitriser plusieurs languages comme le javascript, le css, le html (qui n'est pas techniquement un language), ...";
+echo “<br>”;
+
+echo "Le buisness developper est celui qui se concentre sur les chiffres, il cherche le moyen d'augmenter le chiffre d'affaire soit avec de nouveaux client ou des opérations marketing. Il peut aussi intégrer de nouvelles activités pour rendre l'entreprise plus attrayante";
+echo “<br>”;
+
+echo "Le community manager est plus important que jamais à notre époque car de nos jours une grosse partie de la publicité d'une entreprise se fait à travers les réseaux sociaux. Il offre une image spécifique de l'entreprise et est le premier contact des clients qui souhaitent communiquer à travers ce médium.";
+echo “<br>”;
+
+echo "Lanalyste de données prend les données générées par le site web surson propre fonctionnement pour les étudier afain d'en tirer des conclusiosn qui permettront d'envisager la future évolution du site ou alors des recomandation pour son amélioration. ";
+echo “<br>”;
+
+echo "Le spécialiste en webmarketing promouvoit le site web en employant internet et ses différents outils tels que les réseaux sociaux, les plateformes de partage telles que youtube, le référencement,... ";
+echo “<br>”;
+
+echo " A titre personnel, et en correspondance avec votre formation, citez celle dans laquelle vous souhaitez vous investir. Essayez d’expliquer votre choix.";
+echo “<br>”;
+
+echo "J'ai immédiatement su que j'adorerai me diriger vers le webdesign ui/ux car c'est je trouve un des aspect les plus créatif du métier. Réfléchir aux différents profils de clients que la marque veut toucher (dans les cas ou ils ne seraient pas fournis) pour ensuite créer ou améliorer un site déjà existant est fascinant à mes yeux. C'est un mélange de créativité et de psychologie avec les codes de fonctionements déjà écrit pour nous sur tous les sites concurents et des standards bien ancrés comme le panier en haut à droite ce qui je trouve facilite le travail car les détails sont imposés d'une certaine façon mais je trouve que ça laisse plus de temps justement pour pousser plus loins d'autres aspects.";
+echo “<br>”;
+
+
+
+
+echo "Quel rôle et quelle place, prend ou va prendre l’IA dans la conception d’un projet Web ? Dans quels buts doit-on l’utiliser et selon vous, le métier est-il menacé?";
+echo “<br>”;
+
+
+echo "Oui et non car il existe déja moulte entretreprises pour créer son propre site web en utilisant une ia sauf que je ne pense pas que ce soit réellement tant de clients perdus pour le secteur car c'est surtout des commerces locaux ou des entretreprises avec deux/trois employés donc pas le type de clientèle qui aurait les moyens d'investir dans un site web fait sur mesure pour eux et leurs clientèle. Les plus grosses entresprise vont toujours se diriger vers une agence qui va pouvoir s'adapter à eux et leurs besoins sur chaque aspect et les conseiller sur de meilleures routes à prendre si besoin. 
+Un créateur de contenu vis-à-vis du webdevelopping que je suis sur les réseaux depuis récemment a mentionné que malgré l'avancée de l'ia coder un site web reqiert des bases meme sans lesquelles l'assemblage de lignes de code serait incompréhensible. Donc si il faut apprendre à coder pour utiliser l'ia pour coder alors autant le faire soit meme. Mais je pense que d'ici 10 ans la situation sera bien plus incertaines, car qui dit qu'un utilisateur ne pourrait pas simplement avoir une conversation vocale avec l'ia de 10 minutes et recevoir immédiatement un site fait sur mesure. ";
+echo “<br>”;
+
+?>
